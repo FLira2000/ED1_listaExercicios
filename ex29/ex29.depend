@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601764124 source:/home/fabiolira/Desktop/dev/ED1_2020.1/listaExercicios/ex29/main.c
+	<stdio.h>
+	<stdlib.h>
+
